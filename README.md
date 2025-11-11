@@ -1,4 +1,4 @@
-# IPL-PROJECT
+# IPL PROJECT
 ।
 
 🏏 IPL Data Analysis Project
