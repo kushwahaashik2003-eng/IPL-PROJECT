@@ -1,0 +1,2 @@
+
+The IPL dataset contains detailed match-level and ball-by-ball data from the Indian Premier League, including information about teams, players, venues, runs, wickets, and dismissal types. It is widely used for data analysis, visualization, machine learning models, and sports analytics. The dataset is structured across files such as matches.csv (match summary), deliveries.csv (ball-by-ball data), and players.csv (player information).
